@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Saya merupakan lulusan dari Sekolah Dasar Negeri 2 Ongka, SMP Satap Negeri 3
+Ongka Malino dan SMA Negeri 3 Palu. Saat ini saya sedang menempuh pendidikan di Universitas Tadulako,
+Fakultas Teknik, Jurusan Teknologi Informasi, Program Studi Teknik Informatika."
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textAlignment="center"/>
+</LinearLayout>
